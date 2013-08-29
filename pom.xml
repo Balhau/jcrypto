@@ -4,9 +4,9 @@
   <groupId>balhau</groupId>
   <artifactId>crypto</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>${jproj.version}</version>
   <name>crypto</name>
-  <url>http://maven.apache.org</url>
+  <url>http://git.balhau.net</url>
   
   <build>
     <plugins>
