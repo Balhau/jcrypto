@@ -27,19 +27,25 @@
   	<dependency>
   	  <groupId>balhau</groupId>
 	  <artifactId>metatypes</artifactId>
-	  <version>1.0-SNAPSHOT</version>
+	  <version>${jproj.version}</version>
   	</dependency>
   	
   	<dependency>
   	  <groupId>balhau</groupId>
 	  <artifactId>matematica</artifactId>
-	  <version>1.0-SNAPSHOT</version>
+	  <version>${jproj.version}</version>
+  	</dependency>
+  	
+  	<dependency>
+  		<groupId>balhau</groupId>
+  		<artifactId>fs</artifactId>
+  		<version>${jproj.version}</version>
   	</dependency>
   	
   	<dependency>
   	  <groupId>balhau</groupId>
 	  <artifactId>utils</artifactId>
-	  <version>1.0-SNAPSHOT</version>
+	  <version>${jproj.version}</version>
   	</dependency>
   
     <dependency>
